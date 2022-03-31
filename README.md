@@ -17,4 +17,4 @@ Google home page clone
 
 Visit [GitHub_Page_Google](https://cristhiancm.github.io/Google_Clone/)
 
-![Image text]()
+![Image text](https://github.com/CristhianCM/Google_Clone/blob/main/assets/img/Google_Finish.png)
